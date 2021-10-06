@@ -7,7 +7,7 @@ Hello world, my name is Jorge Antonio Soberanis Balam. I am a student from Mexic
 
 🦾 Engineering student in mechatronics
 👨‍💻 Novice developer
-🆙 21 years old
+🆙 22 years old
 
 ---
 
