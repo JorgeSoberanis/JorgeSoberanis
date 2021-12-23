@@ -1,6 +1,6 @@
 # EY HOLA, SOY JORGE SOBERANIS 🤟
 
-Hello world, my name is Jorge Antonio Soberanis Balam. I am a student from Mexico, Fond of electronics and to "repair" things :boom:
+Hello world, my name is Jorge Soberanis I am a student from Mexico, Fond of electronics and to "repair" things :boom:
 ---
 
 🦾 Engineering student in mechatronics
