@@ -10,4 +10,4 @@ Hello world, my name is Jorge Soberanis I am a student from Mexico, Fond of elec
 ---
 
 ![JorgeSoberanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeSoberanis&theme=gotham&show_icons=true)
-![](https://media1.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e47dzocru21my4c5hbi4jh3o11tpja8lwgstwdc9854&rid=giphy.gif&ct=g)
+![.](https://media1.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e47dzocru21my4c5hbi4jh3o11tpja8lwgstwdc9854&rid=giphy.gif&ct=g)
